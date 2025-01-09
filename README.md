@@ -23,7 +23,10 @@ Run the code and watch it do its magic.
 Side note: You can only run your own saved playlist and not other people's playlist like you friends for example. This Code was forked from a repo with my own implementations here and there feel free to use and mess around with it as you wish.
 
 If anything is unclear feel free to reach out to me on discord for clarification. 
+HOME PAGE
+![image](https://github.com/user-attachments/assets/90cf6e3d-21b6-438d-8412-0b1565db9c5b)
 
+ACCESSED PLAYLIST
 ![image](https://github.com/user-attachments/assets/eabf4f9b-a763-4630-b8c3-a3a23b0ef0c1)
 
 
